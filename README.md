@@ -1,0 +1,2 @@
+# simonchinfong.com
+GCP Server
